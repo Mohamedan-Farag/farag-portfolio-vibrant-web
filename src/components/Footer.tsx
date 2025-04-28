@@ -19,7 +19,7 @@ const Footer = () => {
             Email
           </a>
           <a 
-            href="https://www.linkedin.com/in/mohammeda-farag-07751b229/" 
+            href="https://www.linkedin.com/in/mohamedan-farag/" 
             target="_blank" 
             rel="noopener noreferrer" 
             className="flex items-center gap-2 text-neutralGray hover:text-primaryPurple transition-colors"
@@ -28,7 +28,7 @@ const Footer = () => {
             LinkedIn
           </a>
           <a 
-            href="https://github.com/Mohamedan-Farag" 
+            href="https://github.com/MohamedAFarag" 
             target="_blank" 
             rel="noopener noreferrer" 
             className="flex items-center gap-2 text-neutralGray hover:text-primaryPurple transition-colors"
