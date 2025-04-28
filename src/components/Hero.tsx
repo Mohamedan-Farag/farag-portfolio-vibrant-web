@@ -32,10 +32,10 @@ const Hero = () => {
         </div>
         
         <div className="flex justify-center gap-4">
-          <a href="https://www.linkedin.com" target="_blank" rel="noopener noreferrer" className="bg-[#0077B5] hover:bg-[#0077B5]/80 text-white px-6 py-3 rounded-lg transition-colors">
+          <a href="https://www.linkedin.com/in/mohammeda-farag-07751b229/" target="_blank" rel="noopener noreferrer" className="bg-[#0077B5] hover:bg-[#0077B5]/80 text-white px-6 py-3 rounded-lg transition-colors">
             LinkedIn Profile
           </a>
-          <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="bg-[#333] hover:bg-[#333]/80 text-white px-6 py-3 rounded-lg transition-colors">
+          <a href="https://github.com/Mohamedan-Farag" target="_blank" rel="noopener noreferrer" className="bg-[#333] hover:bg-[#333]/80 text-white px-6 py-3 rounded-lg transition-colors">
             GitHub Profile
           </a>
         </div>
